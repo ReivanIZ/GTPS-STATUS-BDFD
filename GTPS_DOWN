@@ -1,0 +1,15 @@
+$nomention
+$color[00FF00]
+$title[**GTPS**]
+$description[**Server Status : DOWN!!
+Reason  : FIXING/CRASH
+Note    : WAIT**
+$addTimestamp]
+$onlyAdmin[Only Admin]
+$addReactions[<a:emoji_2:750623987901399071>]
+$footer[@Reivan05_]
+$footerIcon[https://cdn.discordapp.com/attachments/750611993064374272/750632535679041676/1598962849423.png]
+$thumbnail[https://media.tenor.com/images/b14284e6f4f9060022c11e10e12a2c56/tenor.gif]
+$onlyAdmin[**ONLY ADMIN**]
+$deletecommand
+
